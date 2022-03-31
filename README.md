@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsayeed&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsayeed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/omaranzz" target="blank"><img src="https://img.shields.io/twitter/follow/omaranzz?logo=twitter&style=for-the-badge" alt="omaranzz" /></a> </p>
+
 
 - 🔭 I’m currently working on **Getting more people to learn with me**
 
