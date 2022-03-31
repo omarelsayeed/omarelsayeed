@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar El Sayed Abdelhaddy</h1>
-<h3 align="center">A passionate learner who seeks to know more and more and more everyday</h3>
+<h3 align="center">A passionate learner who seeks to know more and more everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsayeed&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsayeed" /> </p>
 
