@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **Getting more people to learn with me**
 
-- 🌱 I’m currently learning **Django , NLP**
-
-- 👯 I’m looking to collaborate on **Fastai**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 🤝 I’m looking for help with **TDD**
 
