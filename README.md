@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Getting more people to learn with me**
+- 🔭 I’m currently working on **Robotic Simulation**
 
 - 🌱 I’m currently learning **Data Analysis**
 
