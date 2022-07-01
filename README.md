@@ -5,15 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Robotic Simulation**
+- 🔭 I’m currently working on **Deep Reinforcement Learning**
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 🤝 I’m looking for help with **TDD**
-
 - 📫 How to reach me **omarelsayeed67@gmail.com**
 
-- ⚡ Fun fact **i hate c++**
+- ⚡ Fun fact **i hate c**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
