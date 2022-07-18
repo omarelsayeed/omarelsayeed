@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Omar El Sayed Abdelhaddy</h1>
-<h3 align="center">A passionate learner who seeks to know more and more everyday</h3>
+<h3 align="center">A self-taught pythonista/ai practitioner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsayeed&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsayeed" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep Reinforcement Learning**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **omarelsayeed67@gmail.com**
 
