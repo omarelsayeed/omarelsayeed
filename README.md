@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Deep Reinforcement Learning**
+- 🔭 I’m currently working on **Sentiment Analysis**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Fastai's new course**
 
 - 📫 How to reach me **omarelsayeed67@gmail.com**
 
