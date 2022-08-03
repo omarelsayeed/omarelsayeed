@@ -5,9 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Sentiment Analysis**
-
-- 🌱 I’m currently learning **Fastai's new course**
+- 🌱 Check out my deployed models on [My Space](https://huggingface.co/anzhir2011)
 
 - 📫 How to reach me **omarelsayeed67@gmail.com**
 
