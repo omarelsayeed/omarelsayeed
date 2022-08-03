@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Check out my deployed models on [My Space](https://huggingface.co/anzhir2011)
+- 🌱 Try out my projects on [My Space](https://huggingface.co/anzhir2011)
 
 - 📫 How to reach me **omarelsayeed67@gmail.com**
 
