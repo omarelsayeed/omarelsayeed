@@ -7,6 +7,8 @@
 
 - 🌱 Try out my projects on [My Space](https://huggingface.co/anzhir2011)
 
+- Compete with me on [Kaggle](https://www.kaggle.com/omarrelsayeed)
+
 - 📫 How to reach me **omarelsayeed67@gmail.com**
 
 - ⚡ Fun fact **i hate c**
