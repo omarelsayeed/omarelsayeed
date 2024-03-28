@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Try out my projects on [My Space](https://huggingface.co/anzhir2011)
+- 🌱 Try out my projects on [My Space](https://huggingface.co/omarelsayeed)
 
 - Compete with me on [Kaggle](https://www.kaggle.com/omarrelsayeed)
 
